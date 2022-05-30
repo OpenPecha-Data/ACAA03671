@@ -1,0 +1,47 @@
+segment_sources:
+  I7EA08F5C:
+    type: origin_type
+    relation: translation
+    language: en
+  ID795D333:
+    type: origin_type
+    relation: translation
+    language: de
+  ICD78B4C2:
+    type: origin_type
+    relation: translation
+    language: fr
+  I83CEC440:
+    type: origin_type
+    relation: translation
+    language: it
+  IC48C4D44:
+    type: origin_type
+    relation: translation
+    language: pt
+  I89875B97:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  441b8fe303cf4e388694a4caf92e3049:
+    I7EA08F5C: 6c2e6cbe869e42848ece6c2d890a4500
+    ID795D333: acf57329aca649d086569b7850ed7352
+    ICD78B4C2: 018e52ea02b24e15a98f3656690c8205
+    I83CEC440: c3cd9b6668a447f49e44ba79b7d1d60a
+    IC48C4D44: f88fe3209a0a4bf6b0851cad82d3df0c
+    I89875B97: 30806583a09a4d8eb5755096921b9aaa
+  92cbc82194e44695a62ddb906fbcad6c:
+    I7EA08F5C: ff76a7709e7246378b2ce96e90aeb971
+    ID795D333: ec9b9973105c44fcaba5c80918e820eb
+    ICD78B4C2: 212fa5c8de184cc5904e3f08816b5a0c
+    I83CEC440: 22711642d4f94e17836ce57e4aee40fe
+    IC48C4D44: 0ad8bd8c89434e79a2e6c7674b7854ad
+    I89875B97: 49597a022f6c405ca1c598df0fce837c
+  0a79cfaf1c004d91bcf86caedd92c557:
+    I7EA08F5C: cf8b9f17f5af4e18ae0375e532769c4d
+    ID795D333: 514cb5f79ac8430895b8a527cfe6982c
+    ICD78B4C2: 8cffd98e0a734eaca29342c218616c69
+    I83CEC440: d71e3eab27f34fdd935b539b7517ce69
+    IC48C4D44: e1458711059944a19a65369ef242781e
+    I89875B97: 4f81d897816a4fc492073df3d0ca9288
